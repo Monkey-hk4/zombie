@@ -14,7 +14,7 @@
 </p>
 <br/>
 
-# Sistemas Operativos Disponibles
+# COMPATIBILIDAD
  
  
  |     S.O      |   Estado      |
