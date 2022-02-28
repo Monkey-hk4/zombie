@@ -13,3 +13,12 @@
 <img src="https://github.com/Monkey-hk4/zombie/blob/main/fotos/foto_tool.PNG" title="foto de la herramienta">
 </p>
 <br/>
+
+# Sistemas Operativos Disponibles
+ 
+ 
+ |     S.O      |   Estado      |
+|--------------|---------------| 
+| Windows 10   | Compatible    |
+| Linux    | Compatible    |
+| Termux    | Compatible    |
